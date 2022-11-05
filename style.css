@@ -12,6 +12,10 @@ h1 {
     padding: 10px;
 }
 
+h3 {
+    display: block;
+}
+
 ul {
     list-style-type: none;
     padding: 0px;
