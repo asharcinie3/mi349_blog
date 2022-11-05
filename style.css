@@ -5,7 +5,13 @@ body {
     margin-right: 10%;
 }
 
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
 .topnav {
     display: inline;
     margin-right: 10px;
+    text-transform: uppercase;
 }
