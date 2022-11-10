@@ -170,12 +170,20 @@ a:visited {
     text-align: center;
 }
 
+.about h3 {
+    padding-bottom: 15px;
+}
+
 .about img {
     width: 50%;
     border-radius: 50%;
 }
 
-.artist-list {
+.about .author-bio {
+    width: 70%;
+}
+
+.author-bio .artist-list {
     width: 30%;
     list-style-type: circle;
     position: relative;
