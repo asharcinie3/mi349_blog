@@ -61,10 +61,6 @@ a:visited {
     color: #222;
 }
 
-.picasso-flex img {
-    width: 90%;
-}
-
 .picasso-flex {
     display: flex;
     flex-direction: row;
@@ -74,25 +70,18 @@ a:visited {
 
 .picasso-flex .flex-left {
     background-color: #f3f3f3;
-    width: 30%;
+    width: 40%;
     margin: 5px;
     padding: 5px;
 }
 
 .picasso-flex .flex-right {
     background-color: #f3f3f3;
-    width: 50%;
+    width: 54%;
 }
 
-.frida-post {
-    background-color: #f3f3f3;
-    border-radius: 15px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    width: 75%;
-    padding: 10%;
-    text-align: center;
-    overflow: hidden;
+.picasso-flex img {
+    width: 100%;
 }
 
 .flex-left figure {
@@ -116,6 +105,18 @@ a:visited {
 .picasso-table tr {
     border-bottom: 1px solid #ddd;
     text-align: left;
+}
+
+
+.frida-post {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 75%;
+    padding: 10%;
+    text-align: center;
+    overflow: hidden;
 }
 
 .newsletter {
