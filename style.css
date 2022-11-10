@@ -6,10 +6,6 @@ body {
     margin-right: 7%;
 }
 
-img {
-    padding: 20%;
-}
-
 h1 {
     margin: 15px 0;
     padding: 0;
@@ -51,7 +47,11 @@ a {
     padding: 10px;
 }
 
-,.picasso-post {
+article img {
+    width: 100px;
+}
+
+.picasso-post {
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
