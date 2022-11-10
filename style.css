@@ -90,7 +90,8 @@ a:visited {
 }
 
 .flex-left .img-pic {
-    width: 50%;
+    width: 55%;
+    margin: 0 auto;
     text-align: center;
     font-style: italic;
     font-size: smaller;
@@ -110,7 +111,6 @@ a:visited {
     border-bottom: 1px solid #ddd;
     text-align: left;
 }
-
 
 .frida-flex {
     display: flex;
@@ -180,6 +180,7 @@ a:visited {
 }
 
 .about .author-bio {
+    margin: 0 auto;
     width: 70%;
 }
 
