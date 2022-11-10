@@ -18,6 +18,10 @@ h3 {
     display: block;
 }
 
+p {
+    padding: 10px;
+}
+
 .topnav {
     list-style-type: none;
     margin: 0 auto;
@@ -70,7 +74,7 @@ article {
 .picasso-table {
     text-align: left;
     border-spacing: 20px;
-    width: 700px;
+    width: 70%;
     margin: 0 auto;
 }
 
