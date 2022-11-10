@@ -6,6 +6,10 @@ body {
     margin-right: 7%;
 }
 
+img {
+    padding: 20%;
+}
+
 h1 {
     margin: 15px 0;
     padding: 0;
