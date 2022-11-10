@@ -55,7 +55,14 @@ article {
     text-align: center;
 }
 
-p {
+.picasso-post p {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.frida-post p {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 10px;
