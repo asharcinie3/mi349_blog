@@ -1,5 +1,6 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    color: #222;
     margin-top: 35px;
     margin-left: 10%;
     margin-right: 10%;
@@ -7,23 +8,33 @@ body {
 
 h1 {
     background-color: #efefef;
+    margin: 15px 0;
     text-transform: uppercase;
     letter-spacing: 0.2em;
     padding: 10px;
 }
 
 h3 {
+    margin: 0;
+    font-weight: 100px;
     display: block;
 }
 
-ul {
+.topnav {
     list-style-type: none;
-    padding: 0px;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }
 
-li {
-    float: left;
+.topnav li {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+.topnav li:hover {
+    opacity: 0.5;
+    transition: opacity ease-in-out 0.2s;
 }
 
 a {
