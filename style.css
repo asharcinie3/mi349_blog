@@ -90,13 +90,13 @@ a:visited {
 }
 
 .flex-left .img-pic {
-    width: 50%;
+    width: 40%;
     text-align: center;
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
     border: thin black solid;
-    line-height: 10px;
+    line-height: 15px;
     padding: 5px;
 }
 
