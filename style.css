@@ -61,14 +61,24 @@ article {
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     width: 80%;
     padding: 20px;
     text-align: center;
 }
 
+.picasso-table {
+    text-align: center;
+    border-spacing: 15px;
+}
+
+.picasso-table tr {
+    border-bottom: 1px solid #ddd;
+}
+
 .newsletter {
     margin: 0 auto;
+    margin-bottom: 30px;
     width: 80%;
     padding: 20px;
     text-align: center;
