@@ -66,21 +66,20 @@ a:visited {
 }
 
 .picasso-flex {
-    border-radius: 15px;
     display: flex;
     flex-direction: row;
     margin: 0 auto;
     text-align: center;
 }
 
-.flex-left {
+.picasso-flex .flex-left {
     background-color: #f3f3f3;
     width: 30%;
-    margin: 15px;
-    padding: 15px;
+    margin: 5px;
+    padding: 5px;
 }
 
-.flex-right {
+.picasso-flex .flex-right {
     background-color: #f3f3f3;
     width: 50%;
 }
