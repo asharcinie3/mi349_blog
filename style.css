@@ -27,9 +27,9 @@ h3 {
 }
 
 .topnav li {
-    width: 30px;
     display: inline-block;
-    padding: 20px 10px;
+    padding: 50px 10px;
+    color: #222;
 }
 
 .topnav li:hover {
