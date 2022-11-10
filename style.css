@@ -27,6 +27,7 @@ h3 {
     padding: 0;
     list-style-type: none;
     padding-bottom: 20px;
+    text-align: center;
 }
 
 .topnav li {
@@ -53,6 +54,7 @@ a {
 article img {
     width: 50%;
     float: left;
+    padding: 15px;
 }
 
 article {
@@ -96,12 +98,13 @@ article {
 }
 
 .about img {
-    width: 50px;
+    width: 50%;
     border-radius: 50%;
 }
 
-.artist-list li span {
+.artist-list {
+    width: 30%;
+    list-style-type: circle;
     position: relative;
-    left: -50px;
 }
 
