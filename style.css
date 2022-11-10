@@ -41,14 +41,15 @@ h3 {
     color: #222;
 }
 
-a:visited {
-    text-decoration: none;
-    color: #222;
-}
-
 .topnav li:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 a {
@@ -56,8 +57,24 @@ a {
     padding: 10px;
 }
 
+a:visited {
+    text-decoration: none;
+    color: #222;
+}
+
 article img {
     width: 90%;
+}
+
+article {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
 }
 
 figure {
@@ -70,16 +87,6 @@ figure {
     border: thin black solid;
     margin: 15px;
     padding: 15px;
-}
-
-article {
-    background-color: #f3f3f3;
-    border-radius: 15px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    width: 89%;
-    padding: 20px;
-    text-align: center;
 }
 
 .picasso-table {
