@@ -51,9 +51,8 @@ a {
 }
 
 article img {
-    width: 40%;
+    width: 50%;
     float: left;
-    padding: 15px;
 }
 
 article {
@@ -61,7 +60,7 @@ article {
     border-radius: 15px;
     margin: 0 auto;
     margin-bottom: 30px;
-    width: 90%;
+    width: 89%;
     padding: 20px;
     text-align: center;
 }
@@ -81,7 +80,7 @@ article {
 .newsletter {
     margin: 0 auto;
     margin-bottom: 30px;
-    width: 80%;
+    width: 90%;
     padding: 20px;
     text-align: center;
 }
@@ -91,23 +90,18 @@ article {
     border-radius: 15px;
     margin: 0 auto;
     margin-bottom: 30px;
-    width: 80%;
+    width: 90%;
     padding: 20px;
     text-align: center;
 }
 
 .about img {
-    width: 40%;
+    width: 50px;
     border-radius: 50%;
 }
 
 .artist-list li span {
     position: relative;
-    left: 10px;
-}
-
-@media (max-width: 400px) {
-
-    
+    left: -50px;
 }
 
