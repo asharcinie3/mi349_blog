@@ -32,6 +32,11 @@ h3 {
     color: #222;
 }
 
+a:visited {
+    text-decoration: none;
+    color: #222;
+}
+
 .topnav li:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
