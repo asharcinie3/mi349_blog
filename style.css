@@ -43,6 +43,14 @@ a:visited {
 }
 
 a {
+    text-decoration: none;
     padding: 10px;
 }
 
+article {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
