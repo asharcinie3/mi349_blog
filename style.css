@@ -70,18 +70,20 @@ a:visited {
 .picasso-flex .flex-left {
     background-color: #f3f3f3;
     text-align: center;
-    width: 50%;
-    margin: 5px;
-    padding: 5px;
+    width: 30%;
+    margin: 15px;
+    padding: 15px;
 }
 
 .picasso-flex .flex-right {
     background-color: #f3f3f3;
     text-align: center;
-    width: 30%;
+    width: 50%;
+    margin: 15px;
+    padding: 15px;
 }
 
-.picasso-flex img {
+.flex-left figure img {
     width: 100%;
 }
 
