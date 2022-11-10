@@ -19,14 +19,7 @@ h3 {
 }
 
 #big-text p {
-    line-height: 5px;
-}
-
-.topnav {
-    list-style-type: none;
-    margin: 0 auto;
-    width: 400px;
-    text-align: center;
+    line-height: 7px;
 }
 
 .topnav .links {
@@ -104,5 +97,10 @@ article {
 .about img {
     width: 400px;
     border-radius: 50%;
+}
+
+.artist-list li span {
+    position: relative;
+    left: 10px;
 }
 
