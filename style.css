@@ -71,7 +71,7 @@ a:visited {
     background-color: #f3f3f3;
     border-radius: 15px;
     text-align: center;
-    width: 30%;
+    width: 45%;
     margin: 15px;
     padding: 20px;
 }
@@ -80,7 +80,7 @@ a:visited {
     background-color: #f3f3f3;
     border-radius: 15px;
     text-align: center;
-    width: 90%;
+    width: 80%;
     margin: 15px;
     padding: 20px;
 }
@@ -90,7 +90,7 @@ a:visited {
 }
 
 .flex-left .img-pic {
-    width: 100%;
+    width: 80%;
     margin-top: 20%;
     text-align: center;
     font-style: italic;
@@ -114,15 +114,44 @@ a:visited {
 }
 
 
-.frida-post {
+.frida-flex {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.frida-flex .frida-left {
     background-color: #f3f3f3;
     border-radius: 15px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    width: 75%;
-    padding: 10%;
     text-align: center;
-    overflow: hidden;
+    width: 45%;
+    margin: 15px;
+    padding: 20px;
+}
+
+.frida-flex .frida-right {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    text-align: center;
+    width: 80%;
+    margin: 15px;
+    padding: 20px;
+}
+
+.frida-left figure img {
+    width: 100%;
+}
+
+.frida-left .figure {
+    width: 80%;
+    margin-top: 20%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin black solid;
+    line-height: 10px;
+    padding: 5px;
 }
 
 .newsletter {
