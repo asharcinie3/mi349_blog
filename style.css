@@ -69,20 +69,21 @@ a:visited {
 
 .picasso-flex .flex-left {
     background-color: #f3f3f3;
+    border-radius: 15px;
     float: left;
     text-align: center;
     width: 30%;
     margin: 15px;
-    padding: 15px;
+    padding: 20px;
 }
 
 .picasso-flex .flex-right {
     background-color: #f3f3f3;
-    float: right;
+    border-radius: 15px;
     text-align: center;
-    width: 50%;
+    width: 70%;
     margin: 15px;
-    padding: 15px;
+    padding: 20px;
 }
 
 .flex-left .OGfig img {
@@ -91,12 +92,13 @@ a:visited {
 
 .flex-left .OGfix {
     width: 100%;
+    margin-top: 20%;
     text-align: center;
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
     border: thin black solid;
-    margin: 5px;
+    line-height: 10px;
     padding: 5px;
 }
 
