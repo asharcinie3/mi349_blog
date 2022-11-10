@@ -8,7 +8,7 @@ body {
 
 h1 {
     background-color: #efefef;
-    align-self: center;
+    float: center;
     margin: 15px 0;
     text-transform: uppercase;
     letter-spacing: 0.2em;
