@@ -51,7 +51,9 @@ a {
 }
 
 article img {
-    width: 400px;
+    width: 40%;
+    float: left;
+    padding: 15px;
 }
 
 article {
@@ -59,7 +61,7 @@ article {
     border-radius: 15px;
     margin: 0 auto;
     margin-bottom: 30px;
-    width: 80%;
+    width: 90%;
     padding: 20px;
     text-align: center;
 }
@@ -95,12 +97,17 @@ article {
 }
 
 .about img {
-    width: 400px;
+    width: 40%;
     border-radius: 50%;
 }
 
 .artist-list li span {
     position: relative;
     left: 10px;
+}
+
+@media (max-width: 400px) {
+
+    
 }
 
