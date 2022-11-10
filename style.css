@@ -6,12 +6,6 @@ body {
     margin-right: 7%;
 }
 
-h1 {
-    margin: 15px 0;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-}
-
 h3 {
     margin: 0;
     font-weight: 100px;
@@ -23,6 +17,12 @@ h3 {
     margin: 0 auto;
     width: 400px;
     text-align: center;
+}
+
+.top nav h1 {
+    margin: 10px 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
 }
 
 .topnav li {
@@ -54,7 +54,8 @@ article img {
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
-    width: 80%;
+    width: 90%;
+    padding: 0px 20px;
     text-align: center;
 }
 
@@ -69,7 +70,8 @@ article img {
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
-    width: 80%;
+    width: 90%;
+    padding: 0px 20px;
     text-align: center;
 }
 
