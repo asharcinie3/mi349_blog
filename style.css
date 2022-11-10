@@ -69,6 +69,7 @@ a:visited {
 
 .picasso-flex .flex-left {
     background-color: #f3f3f3;
+    float: left;
     text-align: center;
     width: 30%;
     margin: 15px;
@@ -77,25 +78,26 @@ a:visited {
 
 .picasso-flex .flex-right {
     background-color: #f3f3f3;
+    float: right;
     text-align: center;
     width: 50%;
     margin: 15px;
     padding: 15px;
 }
 
-.flex-left figure img {
+.flex-left .OGfig img {
     width: 100%;
 }
 
-.flex-left figure {
+.flex-left .OGfix {
     width: 100%;
     text-align: center;
     font-style: italic;
     font-size: smaller;
     text-indent: 0;
     border: thin black solid;
-    margin: 15px;
-    padding: 15px;
+    margin: 5px;
+    padding: 5px;
 }
 
 .picasso-table {
