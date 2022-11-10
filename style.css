@@ -18,7 +18,7 @@ h3 {
     display: block;
 }
 
-p {
+#big-text p {
     padding: 10px;
 }
 
@@ -72,14 +72,15 @@ article {
 }
 
 .picasso-table {
-    text-align: left;
+    margin: 0 auto;
     border-spacing: 20px;
     width: 70%;
-    margin: 0 auto;
+    text-align: center;
 }
 
 .picasso-table tr {
     border-bottom: 1px solid #ddd;
+    text-align: left;
 }
 
 .newsletter {
