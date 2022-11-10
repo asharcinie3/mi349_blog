@@ -69,8 +69,7 @@ a:visited {
 
 .picasso-flex .flex-left {
     background-color: #f3f3f3;
-    border-radius: 15px;
-    float: left;
+    border-radius: 20px;
     text-align: center;
     width: 30%;
     margin: 15px;
@@ -81,7 +80,7 @@ a:visited {
     background-color: #f3f3f3;
     border-radius: 15px;
     text-align: center;
-    width: 70%;
+    width: 90%;
     margin: 15px;
     padding: 20px;
 }
