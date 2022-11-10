@@ -56,12 +56,9 @@ a {
     padding: 10px;
 }
 
-/*article img {
+article img {
     width: 50%;
-    float: left;
-    padding: 15px;
-    padding-left: 0px;
-}*/
+}
 
 figure {
     float: left;
