@@ -139,7 +139,6 @@ a:visited {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
     margin-bottom: 30px;
     padding: 20px 20px;
 }
@@ -186,8 +185,8 @@ a:visited {
     text-align: left;
 }
 
-#contact-text {
-    padding-bottom: 20px;
+#contact-button {
+    padding-top: 20px;
 }
 
 @media (max-width:800px) {
