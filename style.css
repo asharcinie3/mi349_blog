@@ -87,7 +87,6 @@ a:visited {
 
 .flex-left .img-pic img {
     width: 100%;
-    border-radius: 15px;
 }
 
 .flex-left .img-pic {
@@ -177,6 +176,7 @@ a:visited {
 
 .about img {
     width: 50%;
+    border-radius: 15px;
 }
 
 .about .author-bio {
@@ -190,4 +190,13 @@ a:visited {
     position: relative;
     margin: 0 auto;
 }
+
+.contact {
+    margin: 0 auto;
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    padding: 20px;
+    width: 400px;
+}
+
 
