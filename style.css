@@ -227,6 +227,11 @@ a:visited {
         align-items: center;
     }
 
+    .newsletter p {
+        margin-bottom: -20px;
+    }
+
+
     #signup-action {
         display: flex;
         flex-direction: row;
