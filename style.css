@@ -188,4 +188,14 @@ a:visited {
     text-align: right;
 }
 
+@media (max-width:400px) {
+    .picasso-flex {
+        flex: 100%;
+        flex-direction: column;
+    }
+     .frida-flex {
+        flex: 100%;
+        flex-direction: column;
+     }
 
+}
