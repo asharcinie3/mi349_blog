@@ -184,6 +184,10 @@ a:visited {
         flex: 100%;
         flex-direction: column;
     }
+
+    .picasso-images .frida-images {
+        width: 100%;
+    }
      .frida-flex {
         flex: 100%;
         flex-direction: column;
