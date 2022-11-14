@@ -181,14 +181,14 @@ a:visited {
 }
 
 @media (max-width:800px) {
-    .picasso-flex .frida-flex {
+    .picasso-flex {
         flex: 100%;
         flex-direction: column;
         width: 90%;
         margin: 0 auto;
     }
 
-    .picasso-images .frida-images {
+    .picasso-images {
         width: 90%;
     }
 
@@ -196,6 +196,17 @@ a:visited {
         width: 50%;
     }
 
+    .frida-flex {
+        flex: 100%;
+        flex-direction: column;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .frida-images {
+        width: 90%;
+    }
+    
     .newsletter {
         flex: 100%;
         width: 90%;
