@@ -192,6 +192,10 @@ a:visited {
         width: 90%;
     }
 
+    #picasso-table {
+        width: 50%;
+    }
+
     .newsletter {
         flex: 100%;
         width: 90%;
