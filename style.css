@@ -136,6 +136,8 @@ a:visited {
 }
 
 .newsletter {
+    display: flex;
+    flex-direction: row;
     margin: 0 auto;
     margin-bottom: 30px;
     width: 90%;
@@ -179,19 +181,22 @@ a:visited {
 }
 
 @media (max-width:800px) {
-    .picasso-flex {
+    .picasso-flex .frida-flex {
         flex: 100%;
         flex-direction: column;
         width: 90%;
         margin: 0 auto;
     }
 
-    .picasso-images {
-        width: 80%;
+    .picasso-images .frida-images {
+        width: 90%;
     }
-     .frida-flex {
+
+    .newsletter {
         flex: 100%;
+        width: 90%;
         flex-direction: column;
-     }
+    }
+
 
 }
