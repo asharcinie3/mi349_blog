@@ -183,10 +183,12 @@ a:visited {
     .picasso-flex {
         flex: 100%;
         flex-direction: column;
+        width: 90%;
+        margin: 0 auto;
     }
 
-    .picasso-images .frida-images {
-        width: 100%;
+    .picasso-images {
+        width: 80%;
     }
      .frida-flex {
         flex: 100%;
