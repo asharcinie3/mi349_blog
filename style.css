@@ -200,7 +200,7 @@ a:visited {
     margin-top: 15px;
 }
 
-@media (max-width:600px) {
+@media (max-width:750px) {
     .picasso-flex {
         flex: 100%;
         flex-direction: column;
