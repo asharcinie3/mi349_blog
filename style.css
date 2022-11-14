@@ -91,7 +91,7 @@ a:visited {
 }
 
 #img1 #img2 #img3 {
-    width: 55%;
+    width: 25%;
     margin: 0 auto;
     text-align: center;
     font-style: italic;
@@ -120,9 +120,11 @@ a:visited {
 }
 
 .frida-images {
+    display: flex;
     background-color: #f3f3f3;
     border-radius: 15px;
     text-align: center;
+    justify-content: center;
     width: 45%;
     margin: 15px;
     padding: 20px;
