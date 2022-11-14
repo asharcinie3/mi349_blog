@@ -193,7 +193,7 @@ a:visited {
     padding: 20px 30px;
     width: 400px;
     text-align: left;
-    margin-right: 30px;
+    margin: 0 auto;
 }
 
 #contact-button {
