@@ -207,13 +207,13 @@ a:visited {
         width: 100%;
         margin: 0 auto;
     }
-
     .picasso-images {
         width: 84%;
     }
 
     #picasso-table {
         width: 20%;
+        margin: 0 auto;
     }
 
     .frida-flex {
@@ -245,6 +245,11 @@ a:visited {
         padding: 20px 20px;
     }
 
+    .about {
+        width: 85%;
+        margin: 0 auto;
+    }
+
     .contact-page{
         width: 75%;
         margin: 0 auto;
@@ -262,6 +267,11 @@ a:visited {
         justify-content: center;
         padding: 20px 20px;
         width: 80%;
+    }
+
+    .contact-page{
+        width: 75%;
+        margin: 0 auto;
     }
 
     .contact-page {
