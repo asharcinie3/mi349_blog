@@ -150,6 +150,10 @@ a:visited {
     margin-bottom: 30px;
 }
 
+#signup-textbox {
+    margin-right: 15px;
+}
+
 .about {
     background-color: #f3f3f3;
     border-radius: 15px;
