@@ -74,8 +74,7 @@ a:visited {
     background-color: #f3f3f3;
     border-radius: 15px;
     width: 45%;
-    margin: 15px;
-    padding: 20px;
+    margin: 0 auto;
 }
 
 .picasso-bio {
@@ -88,6 +87,7 @@ a:visited {
 }
 
 #img1 #img2 #img3 {
+    display: flex;
     width: 25%;
     margin: 0 auto;
     text-align: center;
@@ -180,7 +180,7 @@ a:visited {
     text-align: left;
 }
 
-@media (max-width:800px) {
+@media (max-width:400px) {
     .picasso-flex {
         flex: 100%;
         flex-direction: column;
@@ -193,7 +193,7 @@ a:visited {
     }
 
     #picasso-table {
-        width: 50%;
+        width: 30%;
     }
 
     .frida-flex {
@@ -206,7 +206,7 @@ a:visited {
     .frida-images {
         width: 90%;
     }
-    
+
     .newsletter {
         flex: 100%;
         width: 90%;
