@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(243, 243, 243);
+    background-color: white;
     font-family: Helvetica, sans-serif;
     color: #222;
     margin-top: 20px;
@@ -20,6 +20,10 @@ h3 {
 
 #big-text p {
     line-height: 7px;
+}
+
+.index-page img {
+    width: 100%;
 }
 
 .topnav {
@@ -65,7 +69,6 @@ a:visited {
 
 .picasso-images {
     display: flex;
-    flex-direction: column;
     background-color: #f3f3f3;
     border-radius: 15px;
     justify-content: center;
@@ -81,10 +84,6 @@ a:visited {
     width: 80%;
     margin: 15px;
     padding: 20px 30px;
-}
-
-.picasso-images img {
-    width: 100%;
 }
 
 #img1 #img2 #img3 {
@@ -133,10 +132,6 @@ a:visited {
     width: 80%;
     margin: 15px;
     padding: 20px 20px;
-}
-
-.frida-images img {
-    width: 100%;
 }
 
 .newsletter {
