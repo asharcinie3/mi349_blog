@@ -109,7 +109,7 @@ a:visited {
     table-layout: fixed;
     word-wrap:break-word;
     margin: 0 auto;
-    border-spacing: 5px;
+    border-spacing: 5px 1rem;
     text-align: center;
 }
 
