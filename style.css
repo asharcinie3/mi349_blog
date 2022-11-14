@@ -138,11 +138,13 @@ a:visited {
 .newsletter {
     display: flex;
     flex-direction: row;
-    margin: 0 auto;
+    justify-content: center;
     margin-bottom: 30px;
-    width: 90%;
     padding: 20px;
-    text-align: center;
+}
+
+#button {
+    width: 30%;
 }
 
 .about {
